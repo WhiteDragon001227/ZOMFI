@@ -1,8 +1,11 @@
 # ZOMFI
 
 ## What is ZOMFI?
+
 ZomFi is an ERC20 contract:
-● ZomFi — simple ERC-20 token that mints partial supply to a deployer,and its supply is restricted with ERC20Capped inheritance. Additional minting is allowed. 
+
+● ZomFi — simple ERC-20 token that mints partial supply to a deployer,and its supply is restricted with ERC20Capped inheritance. Additional minting is allowed.
+
 It has the following:
 ○ Name: TokenName
 ○ Symbol: TST
@@ -12,7 +15,9 @@ It has the following:
 ● The owner of the contract has the ability to mint tokens and alter the contract owner.
 
 You can browse the live instances of ZOMFI smart contracts below:
-BSC: [0xB1a05D0EE3c8d936F70b77318A348c0dE2F8a396](https://bscscan.com/address/0xb1a05d0ee3c8d936f70b77318a348c0de2f8a396) 
+
+BSC: [0xB1a05D0EE3c8d936F70b77318A348c0dE2F8a396]
+https://bscscan.com/address/0xb1a05d0ee3c8d936f70b77318a348c0de2f8a396
 
 ## ZOMFI Features and Elements
 The Zomfi token is the core utility and reward token for the Zomfi project wherein users get rewarded with the token by playing various games and can access features within the Zomfi ecosystem.
